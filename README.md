@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-vardy
 - 👀 I’m interested in full stack web development, and generative music.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Go
 - 📫 Reach me at james.vardyc@gmail.com
 
 <!---
