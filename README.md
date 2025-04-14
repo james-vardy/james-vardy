@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-vardy
-- 💿 I run a record label at [privateregcords.co.uk]
-- 💡 I help local businesses and creators at [lamplightdigital.co.uk]
+- 💿 I run a record label at (privateregcords.co.uk)
+- 💡 I help local businesses and creators at (lamplightdigital.co.uk)
 - 📫 Reach me at james.vardyc@gmail.com
 
 <!---
