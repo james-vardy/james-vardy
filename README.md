@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-vardy
-- 👀 I’m interested in full stack web development, and generative music.
-- 🌱 I’m currently learning React, Go
+- 💿 I run a record label at [privateregcords.co.uk]
+- 💡 I help local businesses and creators at [lamplightdigital.co.uk]
 - 📫 Reach me at james.vardyc@gmail.com
 
 <!---
